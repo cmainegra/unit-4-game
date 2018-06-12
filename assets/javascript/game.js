@@ -50,6 +50,6 @@ $("#card4").on("click", function(){
     }
 });
 $("button").on("click", function(){
-    $(document).empty();
+    location.reload();
 })
 });
