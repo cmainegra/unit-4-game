@@ -4,8 +4,6 @@ var card1 = Math.floor(Math.random() * 13) + 1;
 var card2 = Math.floor(Math.random() * 13) + 1;
 var card3 = Math.floor(Math.random() * 13) + 1;
 var card4 = Math.floor(Math.random() * 13) + 1;
-console.log(card1);
-console.log(goal);
 
 $(document).ready(function() {
 
